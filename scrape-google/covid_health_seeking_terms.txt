@@ -1,0 +1,194 @@
+symptoms
+fever
+cough
+shortness of breath
+fatigue
+body aches
+headache
+sore throat
+loss of taste
+loss of smell
+chest pain
+difficulty breathing
+nausea
+vomiting
+diarrhea
+congestion
+runny nose
+sneezing
+chills
+muscle pain
+joint pain
+skin rash
+dizziness
+loss of appetite
+high temperature
+dry cough
+breathing difficulty
+pneumonia
+oxygen levels
+respiratory infection
+acute respiratory distress
+cough
+sore throat
+fever
+headache
+fatigue
+lung infection
+respiratory symptoms
+upper respiratory infection
+anosmia
+ageusia
+throat infection
+anxiety
+self-isolation
+quarantine
+self-care
+home treatment
+symptom checker
+hotline
+test
+rapid test
+PCR test
+screening
+exposure
+contact tracing
+close contact
+contagious period
+recovery time
+post- symptoms
+booster
+vaccine
+vaccine side effects
+antiviral treatment
+immunocompromised
+hospitalization
+intensive care
+lung damage
+chest tightness
+smell and taste loss
+asymptomatic
+mild symptoms
+moderate symptoms
+severe symptoms
+incubation period
+exposure symptoms
+contact symptoms
+risk factors
+underlying conditions
+comorbidities
+precaution
+mask-wearing
+social distancing
+hand washing
+disinfecting surfaces
+quarantine period
+recovery symptoms
+symptom relief
+fever reducer
+antipyretic
+cough relief
+breathing exercises
+pulse oximeter
+oxygen saturation
+health monitoring
+medical advice
+online doctor
+telemedicine
+virtual care
+coronavirus safety
+antigen test
+cases
+omicron
+doh
+department of health
+coronavirus
+covid test
+virus
+mask
+tiredness
+test
+face shield
+pandemic
+lagnat
+ubo
+hirap sa paghinga
+pagkapagod
+sakit ng katawan
+sakit ng ulo
+pananakit ng lalamunan
+pagkawala ng panlasa
+pagkawala ng pang-amoy
+pananakit ng dibdib
+pagsusuka
+pagtatae
+sipon
+pagbahing
+panginginig
+pananakit ng kalamnan
+pananakit ng kasukasuan
+pamamantal
+pagkahilo
+kawalan ng gana
+mataas na lagnat
+tuyong ubo
+hindi makahinga
+pulmonya
+antas ng oxygen
+impeksyon sa baga
+matinding hirap sa paghinga
+mga sintomas
+ubo
+lagnat
+sakit ng ulo
+pagkapagod
+impeksyon sa respiratoryo
+pang-itaas na impeksyon sa respiratoryo
+pagkawala ng pang-amoy (anosmia)
+pagkawala ng panlasa (ageusia)
+pag-iisa
+kuwarentena
+pangangalaga sa bahay
+pagsusuri ng sintomas
+test
+rapid test
+malapit na pakikipag-ugnay
+tagal ng pagka-nakakahawa
+oras ng paggaling
+matagal
+booster
+bakuna
+side effects ng bakuna
+gamot laban sa virus
+immunocompromised
+pagka-ospital
+intensive care
+pinsala sa baga
+paninikip ng dibdib
+walang sintomas
+banayad na sintomas
+katamtamang sintomas
+malalang sintomas
+mga sintomas ng pagka-expose
+mga sintomas ng pakikipag-ugnay
+mga salik ng panganib
+mga kundisyon sa kalusugan
+mga komorbididad
+pagsusuot ng mask
+social distancing
+paghuhugas ng kamay
+pagdi-disinfect ng mga bagay
+panahon ng kuwarentena
+mga sintomas ng paggaling
+pampababa ng lagnat
+gamot sa lagnat
+gamot sa ubo
+ehersisyo sa paghinga
+pulse oximeter
+saturasyon ng oxygen
+pagmamanman sa kalusugan
+konsultasyong medikal
+online na doktor
+telemedicine
+virtual na pangangalaga
+kaligtasan sa coronavirus
