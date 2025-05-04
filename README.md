@@ -34,5 +34,6 @@ GOOGLE TRENDS
 This contains 2 notebooks
 
 scrape-google : scraping data from the Google Trends API
+
 rnn: Running RNN on the GT/scraped Reddit data
 
